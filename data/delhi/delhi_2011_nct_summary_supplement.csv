@@ -1,0 +1,2 @@
+geography,census_year,total_population,population_male,population_female,age_0_6_total,total_households,sc_population,literacy_rate_percent,source_url,notes
+NCT Delhi (state),2011,16787941,,,,,,,https://des.delhi.gov.in/sites/default/files/DES/generic_multiple_files/dsh-21.pdf,Total population is from the 2011 district totals; other columns left blank rather than mixing the conflicting figures on the DES Delhi at a Glance webpage.

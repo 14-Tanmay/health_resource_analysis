@@ -1,0 +1,35 @@
+{
+  "cities": [
+    {
+      "id": "lucknow",
+      "name": "Lucknow",
+      "status": "ready",
+      "description": "District settlements and urban wards",
+      "module": "app.py"
+    },
+    {
+      "id": "delhi",
+      "name": "Delhi",
+      "status": "ready",
+      "description": "District and ward priority using income-derived socioeconomic vulnerability",
+      "data_directory": "data/delhi",
+      "module": "cities/delhi.py"
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai",
+      "status": "ready",
+      "description": "District-level and ward-level healthcare access and income-based priority analysis",
+      "data_directory": "data/mumbai",
+      "module": "cities/mumbai.py"
+    },
+    {
+      "id": "chennai",
+      "name": "Chennai",
+      "status": "ready",
+      "description": "Settlement-level (202 units) and ward-level (155 wards) healthcare access and priority analysis",
+      "data_directory": "data/chennai",
+      "module": "cities/chennai.py"
+    }
+  ]
+}

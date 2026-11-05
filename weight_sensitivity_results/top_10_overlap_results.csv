@@ -1,0 +1,4 @@
+Comparison,Common_Top_10_Wards,Overlap_Percentage,Common_Ward_IDs
+Original Model C vs Equal Weights,8,80.0,"LMC_002, LMC_004, LMC_010, LMC_015, LMC_016, LMC_079, LMC_085, LMC_105"
+Original Model C vs Alternative Model,7,70.0,"LMC_004, LMC_015, LMC_016, LMC_079, LMC_085, LMC_094, LMC_105"
+Equal Weights vs Alternative Model,7,70.0,"LMC_004, LMC_012, LMC_015, LMC_016, LMC_079, LMC_085, LMC_105"
